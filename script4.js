@@ -1,0 +1,1 @@
+let inscritos = 0;
